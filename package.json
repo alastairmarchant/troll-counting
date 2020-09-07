@@ -1,8 +1,22 @@
 {
   "name": "troll-counting",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "description": "A small react app to help convert from decimal to troll",
+  "homepage": "https://github.com/alastairmarchant/troll-counting#readme",
+  "bugs": "https://github.com/alastairmarchant/troll-counting/issues",
+  "license": "MIT",
+  "author": {
+    "name": "Alastair Marchant",
+    "email": "alastairmarchant.am@gmail.com",
+    "url": "http://alastairmarchant.github.io/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alastairmarchant/troll-counting.git"
+  },
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.11.0",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
