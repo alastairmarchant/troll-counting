@@ -1,6 +1,6 @@
 {
   "name": "troll-counting",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A small react app to help convert from decimal to troll",
   "homepage": "https://github.com/alastairmarchant/troll-counting#readme",
   "bugs": "https://github.com/alastairmarchant/troll-counting/issues",
