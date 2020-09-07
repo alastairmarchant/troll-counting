@@ -6,13 +6,13 @@
   "bugs": "https://github.com/alastairmarchant/troll-counting/issues",
   "license": "MIT",
   "author": {
-    "name" : "Alastair Marchant",
-    "email" : "alastairmarchant.am@gmail.com",
-    "url" : "http://alastairmarchant.github.io/"
+    "name": "Alastair Marchant",
+    "email": "alastairmarchant.am@gmail.com",
+    "url": "http://alastairmarchant.github.io/"
   },
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/alastairmarchant/troll-counting.git"
+    "type": "git",
+    "url": "https://github.com/alastairmarchant/troll-counting.git"
   },
   "private": true,
   "dependencies": {
